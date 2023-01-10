@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "280216252619",
+    "project_id": "shoe-app-fcdfc",
+    "storage_bucket": "shoe-app-fcdfc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:280216252619:android:076df29d2e1f7cb50e6b4e",
+        "android_client_info": {
+          "package_name": "com.example.project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "280216252619-4eac3t3c6se2uncmoplu5gejrc01icb9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4hKr6ir2pNvPNNQz5HbAW3Z-A3mjk2gY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "280216252619-4eac3t3c6se2uncmoplu5gejrc01icb9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
